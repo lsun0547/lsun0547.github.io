@@ -1,6 +1,5 @@
 # Introducing Python
 
----
 ## What is a programming language?
 - a language that computers can understand
 - tells them to do certain things, ex: add two numbers together
