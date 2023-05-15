@@ -9,7 +9,7 @@
 2. An account on https://repl.it/ (instructions are in the welcome email, but I will go through this each time for anyone who needs help)
 
 ## Topics (link will be added after each session)
-1. Introducing Python and using the Python Turtle to draw shapes
+1. [Introducing Python and using the Python Turtle to draw shapes](./python/1_IntroducingPython/introducingpython.md)
 2. Python numbers and variables
 3. Strings in Python
 4. Loops and conditions
