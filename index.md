@@ -1,4 +1,3 @@
-### lsun0547.github.io
 # Kids Connect Python Workshop
 
 ---
