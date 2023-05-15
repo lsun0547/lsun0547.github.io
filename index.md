@@ -1,6 +1,4 @@
 # Kids Connect Python Workshop
-
----
 **This workshop will teach kids the basics of the programming language Python. Prior experience is not necessary for this workshop.**
 
 #### Each child will need the following things:
